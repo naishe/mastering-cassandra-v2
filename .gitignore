@@ -1,0 +1,20 @@
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+
+# Eclipse / Java
+*.class
+target
+.metadata
+.cache
+.worksheet
+*.class
+target/
+.project
+.project/
+.classpath
+.settings/
+.settings
+
+RemoteSystemsTempFiles/
